@@ -21,3 +21,5 @@ popupInfoBtn.addEventListener("click", () => {
 closePopupBtn.addEventListener("click", () => {
 	popupInfo.classList.remove("active")
 })
+
+
