@@ -219,7 +219,6 @@ body {
 	}
 
 	li {
-		padding: 2px;
 		font-size: 1.5rem;
 		color: var(--white-color);
 		font-weight: bold;
@@ -228,16 +227,76 @@ body {
 	}
 
 	li:nth-child(1) {
-		animation-delay: 0.2s;
+		animation-delay: 0.1s;
 	}
 	li:nth-child(2) {
-		animation-delay: 0.4s;
+		animation-delay: 0.2s;
 	}
 	li:nth-child(3) {
-		animation-delay: 0.6s;
+		animation-delay: 0.3s;
+		padding-right: 5px;
 	}
 	li:nth-child(4) {
+		animation-delay: 0.4s;
+	}
+	li:nth-child(5) {
+		animation-delay: 0.5s;
+	}
+	li:nth-child(6) {
+		animation-delay: 0.6s;
+	}
+	li:nth-child(7) {
+		animation-delay: 0.7s;
+	}
+	li:nth-child(8) {
 		animation-delay: 0.8s;
+		padding-right: 5px;
+	}
+	li:nth-child(9) {
+		animation-delay: 0.9s;
+	}
+	li:nth-child(10) {
+		animation-delay: 1s;
+	}
+	li:nth-child(11) {
+		animation-delay: 1.1s;
+	}
+	li:nth-child(12) {
+		animation-delay: 1.2s;
+		padding-right: 5px;
+	}
+	li:nth-child(13) {
+		animation-delay: 1.3s;
+	}
+	li:nth-child(14) {
+		animation-delay: 1.4s;
+	}
+	li:nth-child(15) {
+		animation-delay: 1.5s;
+	}
+	li:nth-child(16) {
+		animation-delay: 1.6s;
+	}
+	li:nth-child(17) {
+		animation-delay: 1.7s;
+	}
+	li:nth-child(18) {
+		animation-delay: 1.8s;
+	}
+	li:nth-child(19) {
+		animation-delay: 1.9s;
+	}
+	li:nth-child(20) {
+		animation-delay: 2s;
+	}
+	li:nth-child(21) {
+		animation-delay: 2.1s;
+	}
+	li:nth-child(22) {
+		animation-delay: 2.2s;
+	}
+	li:nth-child(23) {
+		animation-delay: 2.2s;
 	}
 }
 
